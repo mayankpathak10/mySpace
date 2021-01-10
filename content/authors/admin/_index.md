@@ -10,7 +10,7 @@ role: Robotics Engineer at Honeywell
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Honeywell Internation Inc.
+- name: Honeywell International Inc.
   url: https://www.honeywell.com
 
 - name: University of Maryland

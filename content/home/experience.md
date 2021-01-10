@@ -22,24 +22,31 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Robotics Engineer
+    company: Honeywell International Inc.
+    company_url: www.honeywell.com
+    location: Pittsburgh, PA
+    date_start: '2019-09-03'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Reinforcement Learning
+        * Motion Planning
         
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Teaching Assistant
+    company: University of Maryland
+    company_url: www.umd.edu
+    location: College Park, MD
+    date_start: '2019-01-24'
+    date_end: '2019-06-24'
+    description: Taught Reinforcement Learning to graduate students for the course "Introduction to Reinforcement Learning" by professor Donald Sofge.
+  
+  - title: Research Assistant
+    company: University of Maryland
+    company_url: www.umd.edu
+    location: College Park, MD
+    date_start: '2018-07-21'
+    date_end: '2019-03-15'
+    description: Explored on acoustic imaging using MEMS microphones and effect of using metamaterial to amplify signals, to enhance autonomous driving sensing systems. Worked on image and signal processing, noise filtering, system designing, and result evaluation. Mechanical Component Designing and implementing experimental requirements.
 ---
