@@ -29,8 +29,7 @@ experience:
     date_start: '2019-09-03'
     date_end: ''
     description: Working on projects for automating warehouse processes by deploying smart robotics solutions.
-      |2-
-        Responsibilities include:
+        Responsibilities include-
         
         * Reinforcement Learning
         * Motion Planning
