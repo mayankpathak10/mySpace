@@ -28,7 +28,8 @@ experience:
     location: Pittsburgh, PA
     date_start: '2019-09-03'
     date_end: ''
-    description: |2-
+    description: Working on projects for automating warehouse processes by deploying smart robotics solutions.
+      |2-
         Responsibilities include:
         
         * Reinforcement Learning

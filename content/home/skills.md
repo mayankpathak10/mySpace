@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: Ros_logo
+  icon: "Ros_logo"
   icon_pack: "custom"
   name: ROS
 # - description: 100%
